@@ -4,6 +4,8 @@
 import random
 import string
 
+print("oi)
+
 #funcs
 def verifyOneLetter(lenght):
     if lenght > 1:
