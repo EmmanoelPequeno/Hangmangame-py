@@ -4,7 +4,7 @@
 import random
 import string
 
-print("oi)
+print("hey, teste push")
 
 #funcs
 def verifyOneLetter(lenght):
